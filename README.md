@@ -18,3 +18,8 @@ A new button will appear, in which we could switch the current state between log
 1. After clicking 'Login', the state remains even after several refresh
 2. `parse()` is used to convert the HTML string into a React element. While not using it will make the code inside becomes normal HTML string and the application run as normal. having React element will make it easier to call it again in another place.
 <br/>
+
+### Practicum 3
+![Screenshot](README-pic/3a.png)<br/>
+A counter will appear, in which we could increase or reduce the number on said bar.
+<br/>
